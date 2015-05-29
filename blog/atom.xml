@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Take a Trip with LovableLeah]]></title>
+  <link href="http://lashawnabrown.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://lashawnabrown.github.io/blog/"/>
+  <updated>2015-05-28T20:43:11-05:00</updated>
+  <id>http://lashawnabrown.github.io/blog/</id>
+  <author>
+    <name><![CDATA[La'Shawna Brown]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Awesome New Post]]></title>
+    <link href="http://lashawnabrown.github.io/blog/blog/2015/05/27/awesome-new-post/"/>
+    <updated>2015-05-27T20:38:08-05:00</updated>
+    <id>http://lashawnabrown.github.io/blog/blog/2015/05/27/awesome-new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
